@@ -6,6 +6,6 @@ public class RunnerTest {
 
     @Test
     public void testRunner() {
-        Runner.main(new String[]{});
+        Runner.main(new String[]{"l1", "l2", "l3"});
     }
 }
